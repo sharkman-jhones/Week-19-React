@@ -1,0 +1,11 @@
+{
+  "name": "week-19-react",
+  "version": "1.0.0",
+  "description": "Week 19 React.js assignment: Create a page that lets you search for NYT articles, and save favorites as a one page app using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
